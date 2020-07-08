@@ -16,7 +16,12 @@ li {
   font-style: oblique;
   font-family: monospace;
 }
-
+strong {
+  font-style: italic;
+}
+em {
+  font-style: bold;
+}
 p {
   font-family: sans-serif;
 }
